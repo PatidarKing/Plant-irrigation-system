@@ -1,0 +1,12 @@
+CREATE DATABASE irrigation;
+USE irrigation;
+
+CREATE TABLE sensor_data (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    moisture INT,
+    ph INT,
+    temperature INT,
+    humidity INT,
+    motor_status BOOLEAN,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
