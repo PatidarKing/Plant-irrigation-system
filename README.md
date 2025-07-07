@@ -148,6 +148,3 @@ PlantIrrigationSystem/
 B.Tech ECE Student
 Passionate about IoT, Automation & Embedded Systems
 
----
-
-Would you like me to generate this as a downloadable `.md` file or add circuit diagrams?
