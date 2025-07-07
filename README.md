@@ -1,6 +1,4 @@
-Here’s a complete `README.md` file for your **Plant Irrigation System** project. It explains the purpose, components, how it works, and how to set it up:
 
----
 
 # 🌱 Smart Plant Irrigation System
 
